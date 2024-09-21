@@ -10,3 +10,6 @@ product = first_number * second_number
 # displaying the computed value for sum & product
 print("The sum of two numbers is:",sum)
 print("The product of the two numbers is:",product)
+
+
+
